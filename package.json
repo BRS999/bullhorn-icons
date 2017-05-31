@@ -24,6 +24,9 @@
       "email": "eblackmore@bullhorn.com"
     }
   ],
+  "scripts": {
+    "build": "grunt"
+  },
   "dependencies": {},
   "devDependencies": {
     "grunt": "*",

@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M416,464.6H96V96h32v64h256V96h32V464.6z M256.6,47.3c12.9,0,23.4,10.4,23.4,23.2
-	s-10.6,23.2-23.4,23.2c-12.9,0-23.4-10.4-23.4-23.2S243.8,47.3,256.6,47.3z M420.8,47.3h-98C312.9,20.4,287.1,1,256.6,1
-	c-30.5,0-56.3,19.5-66.1,46.4h-98c-25.8,0-46.9,20.9-46.9,46.4v370.9c0,25.5,21.1,46.4,46.9,46.4h328.3c25.8,0,46.9-20.9,46.9-46.4
-	V93.7C467.7,68.2,446.6,47.3,420.8,47.3z"/>
-<rect x="-6704.9" y="-3748.2" fill="none" width="9258" height="7438.2"/>
-<rect x="128" y="384" fill-rule="evenodd" clip-rule="evenodd" width="51.2" height="64"/>
-<rect x="-6704.9" y="-3748.2" fill="none" width="9258" height="7438.2"/>
-<rect x="196.3" y="288" fill-rule="evenodd" clip-rule="evenodd" width="51.2" height="160"/>
-<rect x="264.5" y="320" fill-rule="evenodd" clip-rule="evenodd" width="51.2" height="128"/>
-<rect x="-6704.9" y="-3748.2" fill="none" width="9258" height="7438.2"/>
-<rect x="332.8" y="224" fill-rule="evenodd" clip-rule="evenodd" width="51.2" height="224"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" enable-background="new 0 0 512 512"><path fill-rule="evenodd" clip-rule="evenodd" d="M416 464.6h-320v-368.6h32v64h256v-64h32v368.6zm-159.4-417.3c12.9 0 23.4 10.4 23.4 23.2s-10.6 23.2-23.4 23.2c-12.9 0-23.4-10.4-23.4-23.2s10.6-23.2 23.4-23.2zm164.2 0h-98c-9.9-26.9-35.7-46.3-66.2-46.3s-56.3 19.5-66.1 46.4h-98c-25.8 0-46.9 20.9-46.9 46.4v370.9c0 25.5 21.1 46.4 46.9 46.4h328.3c25.8 0 46.9-20.9 46.9-46.4v-371c0-25.5-21.1-46.4-46.9-46.4z"/><path fill="none" d="M-6704.9-3748.2h9258v7438.2h-9258z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M128 384h51.2v64h-51.2z"/><path fill="none" d="M-6704.9-3748.2h9258v7438.2h-9258z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M196.3 288h51.2v160h-51.2zM264.5 320h51.2v128h-51.2z"/><path fill="none" d="M-6704.9-3748.2h9258v7438.2h-9258z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M332.8 224h51.2v224h-51.2z"/></svg>
